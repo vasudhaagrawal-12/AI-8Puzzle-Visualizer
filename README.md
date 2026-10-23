@@ -3,6 +3,11 @@
 **Student:** Vasudha Agrawal · **Registration number:** 24BCE2582  
 **Course:** Artificial Intelligence · **Assignment:** Interactive 8-Puzzle Problem Solver using AI Search Algorithms · **Assigned algorithm:** Breadth-First Search (BFS), Algorithm #1 · **Assignment weight:** 10 marks
 
+Github pages live deployment : https://vasudhaagrawal-12.github.io/AI-8Puzzle-Visualizer/
+Demo Video : 
+https://drive.google.com/file/d/1z0ylkbwVmNbcEuuLz6qyYoI5OHw6jOg4/view?usp=drive_link
+
+
 ## Project overview
 
 A static, browser-based learning tool for the 8-puzzle. Edit an initial and goal board, generate a solvable start state, run a manual BFS implementation, and inspect recorded search expansions, frontier, explored states, statistics, and the shortest solution path. The remaining assignment algorithms are described theoretically; they are not implemented or benchmarked.
