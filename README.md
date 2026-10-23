@@ -97,9 +97,9 @@ AI-8Puzzle-Visualizer/
 │   ├── bfs.js
 │   ├── puzzle.js
 │   └── visualizer.js
-├── output/pdf/AI-8Puzzle-Visualizer-Submission.pdf
+├
 ├── tests/puzzle.test.js
-├── DEMO-SCRIPT.md
+├
 └── README.md
 ```
 
@@ -147,11 +147,6 @@ Tests cover solved, one-move, multi-move, custom-goal and independently referenc
 - [x] There is no package manifest or build configuration; runtime assets are static and tests use Node's built-in runner.
 - Screenshots are not included in this repository.
 
-## Demonstration script
-
-See [`DEMO-SCRIPT.md`](DEMO-SCRIPT.md) for a timed four-minute walkthrough based on the current interface and its actual controls.
-
-The printable submission brief is [`AI-8Puzzle-Visualizer-Submission.pdf`](output/pdf/AI-8Puzzle-Visualizer-Submission.pdf). It contains clearly marked fields for project links.
 
 ## GitHub repository and Pages
 
